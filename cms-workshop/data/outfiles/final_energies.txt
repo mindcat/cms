@@ -1,0 +1,10 @@
+The final energy of butanol is -232.16557983472831 Eₕ
+The final energy of decanol is -466.38362414000858 Eₕ
+The final energy of ethanol is -154.09130176573018 Eₕ
+The final energy of heptanol is -349.27397687072676 Eₕ
+The final energy of hexanol is -310.23853322516328 Eₕ
+The final energy of methanol is -115.04800861868374 Eₕ
+The final energy of nonanol is -427.34651800828152 Eₕ
+The final energy of octanol is -388.31108645547431 Eₕ
+The final energy of pentanol is -271.20138119895074 Eₕ
+The final energy of propanol is -193.12836249728798 Eₕ
